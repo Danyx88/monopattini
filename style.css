@@ -1,0 +1,101 @@
+body{
+  background-image: url("immagini/monopattino.jpg");
+  background-size: cover;
+  text-align: center;
+  font-family: tahoma;
+}
+
+#back{
+  background: rgba(0,0,0,0.5);
+  width: 1200px; height: 800px;
+  border-radius: 15px;
+  margin-top: 50px; margin-left: 380px;
+}
+
+img{
+  width: auto; height: 125px;
+  padding-top: 100px;
+}
+
+.subtitle, #title{
+  font-size: 30px;
+}
+
+#title{
+  color: limegreen;
+}
+
+.accessibilità{
+  background-color: lime;
+  width: 900px; height: 50px;
+  margin-left: 145px; margin-top: 10px;
+}
+
+button{
+  margin-top: 12px
+}
+
+input#box1{
+  margin-left: 10px;
+}
+
+#box2{
+  margin-left: 15px;
+}
+
+#box3{
+  margin-left: 37px;
+}
+
+section{
+  margin-right: 580px;
+  margin-top: 10px;
+  color: white;
+}
+
+.monopattino{
+  display: block;
+  margin-right: 45px;
+}
+
+.Mike{
+  margin-right: 63px;
+}
+
+.Fede{
+  margin-right: 70px;
+}
+
+.carica{
+  margin-top: 5px;
+  margin-right: 225px;
+}
+
+.high{
+  margin-right: 225px;
+}
+
+.low{
+  margin-left: 2px
+}
+
+#medium-battery{
+  background-color: orange;
+  width: 400px; height: 40px;
+  border-radius: 12px;
+  margin-left: 149px; margin-top: 5px;
+}
+
+#high-battery{
+  background-color: lime;
+  width: 700px; height: 40px;
+  border-radius: 12px;
+  margin-left: 149px; margin-top: 5px;
+}
+
+#low-battery{
+  background-color: red;
+  width: 200px; height: 40px;
+  border-radius: 12px;
+  margin-left: 149px; margin-top: 5px;
+}
